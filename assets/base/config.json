@@ -1,0 +1,15 @@
+{
+  "app_name": "Ludo789",
+  "version": "1.0",
+  "domain": "https://umarayaz.shop",
+  "api_endpoints": {
+    "login": "/api/v1/login",
+    "card_show": "/api/v1/show_card"
+  },
+  "features": {
+    "card_show_delay_seconds": 10,
+    "ads_enabled": false,
+    "education_mode": true
+  },
+  "notes": "Modified config.json with umarayaz.shop domain for Dragon/Tiger 10s card show"
+}
